@@ -10,4 +10,4 @@ We've already included the following for you to get started real quick:
 
 # jQuery's domReady
 $ ->
-	# Do something once the DOM is ready
+  # Do something once the DOM is ready
